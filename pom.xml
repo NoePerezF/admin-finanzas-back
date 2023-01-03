@@ -204,7 +204,7 @@
                 </dependency>
 			</dependencies>
 			<build>
-				<finalName>contador-patadas</finalName>
+				<finalName>admin</finalName>
 				<plugins>
                                     <plugin>
                         <artifactId>maven-clean-plugin</artifactId>
